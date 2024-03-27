@@ -1,4 +1,4 @@
-# BilibiliStreamChatFix
+# BilibiliLiveMosaicBlockFix
 Remove mosaic blocking the left chat bar in Bilibili live streams.
 
 before：
